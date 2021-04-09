@@ -1,0 +1,18 @@
+Esta prática realiza el diseño de una aplicación gráfica que utiliza el algoritmo A*
+conocido en la Inteligencia Artificial para el cálculo de rutas. 
+
+Se realiza en el lenguaje de Python y dispone de tres ficheros distintos. Uno 
+almacena toda la información de las estaciones, otro es el encargado de almacenar todas
+las funciones calculadoras del algoritmo y el último es el encargado de ejecutar la
+aplicación.
+
+Además, se dispone de una foto del metro de Athenas para poder visualizar correctamente
+el mapa ya que es utilizado por la aplicación.
+
+Para que la aplicación funcione correctamente es necesario entrar en el código de 
+metroApp3 y editar la ultima variable que es la ruta de la imagen correspondiente. 
+Es necesario introducir el path absoluto de la imagen.
+
+
+
+
